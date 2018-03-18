@@ -1,0 +1,23 @@
+{
+	"name": "OTT-Player",
+	"date": "2018.03.18",
+	"version": "1.0.0",
+	"description": "OTT-Player - ВСЁ ВАШЕ ТВ в одном приложении",
+	"author": {
+		"name": "BetaMaster"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/betamaster2/ottplayer/Fork-Player-for-Stalker-Middleware.git"
+	},
+	"options": [],
+	"config": {
+		"type": "app",
+		"category": "apps",
+		"name": "OTT-Player",
+		"legacy": true,
+		"description": "OTT-Player - ВСЁ ВАШЕ ТВ в одном приложении",
+		"backgroundColor": "#00C8DA",
+		"icons": "icons"
+	}
+}
